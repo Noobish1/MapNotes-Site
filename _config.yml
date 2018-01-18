@@ -65,7 +65,7 @@ device: iphone-x-space-gray-vertical # REQUIRED
 # Theme Settings
 #
 background_color: "#8e867b" # Optional
-background_image: /images/backgrounds/71-usersthink-stock-image-web-50%.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
+background_image: /images/backgrounds/71-usersthink-stock-image-web-50.jpg # Optional - Use Relative path e.g. images/backgrounds/image.jpg
 text_color: white # Optional
 link_color: # Optional
 social_link_color: white # Optional
