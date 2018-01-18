@@ -26,8 +26,8 @@ app:
 #
 # Marketing
 #
-marketing_header: Does Awesome Stuff # Optional
-marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+marketing_header: Location based note taking. # Optional
+marketing_desc: Keep notes for specific locations or landmarks. View them on a map or in a list grouped by city or country. Helpful for trip planning or remembered the trips you've already been on. Notes can contain links as well as phone numbers when plain text isn't enough.
 
 #
 # Social Links
@@ -35,9 +35,9 @@ marketing_desc: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do 
 # Includes an icon for each username you enter
 #
 social-links:
-  github: https://github.com/Noobish1
+  github: Noobish1
   facebook:
-  twitter: https://twitter.com/Noobish1
+  twitter: Noobish1
   pinterest:
   instagram:
   email:
