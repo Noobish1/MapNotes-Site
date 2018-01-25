@@ -143,7 +143,8 @@ a:hover {
 
 .social-links {
   padding-left: 0;
-  margin-left: -5px;
+  margin-left: -10px;
+  margin-top: -20px;
   list-style: none;
 }
 
@@ -196,6 +197,11 @@ a:hover {
 @media screen and (max-width: 768px) {
   .device { 
     display: none; 
+  }
+
+  .main {
+    padding-top: 20px;
+    padding-bottom: 20px;
   }
 }
 
