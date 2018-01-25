@@ -26,7 +26,7 @@ app:
 #
 # Marketing
 #
-marketing_header: Location based note taking. # Optional
+marketing_header: Location based note taking # Optional
 marketing_desc: Keep notes for specific locations or landmarks. View them on a map or in a list grouped by city/country. Helpful for trip planning or remembering the trips you've already been on. Notes can contain links as well as phone numbers when plain text isn't enough.
 
 #
