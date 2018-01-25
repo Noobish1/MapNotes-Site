@@ -190,6 +190,16 @@ a:hover {
 }
 
 //
+// small screens
+//
+
+@media screen and (max-width: 768px) {
+  .device { 
+    display: none; 
+  }
+}
+
+//
 // more imports
 //
 
